@@ -1,0 +1,38 @@
+.card_back_ground{
+    width: 400px;
+    margin: 5px 15px;
+    background: var(--background_1);
+    min-height: auto;
+    padding: 15px 0;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.card_items{
+    margin:25px  35px;
+    text-align: center;
+}
+
+.card_items a{
+    margin-bottom: 30px;
+    background: #ee0629;
+    text-decoration: none;
+    padding: 15px;
+    color: var(--background_1);
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.card_title{
+    font-family: "Bebas Neue", sans-serif;
+    padding: 15px 15px;
+    font-weight: 400;
+    font-size: 2.75rem;
+}
+
+.card_image{
+    width: 100%;
+}
+
+.card_image img{
+    width: 100%;
+}
